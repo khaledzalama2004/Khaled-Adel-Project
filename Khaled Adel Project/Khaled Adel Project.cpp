@@ -1,6 +1,7 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Khod floooof\n";
+    cout << "Khod floooof\n";
+    cout << "Second Version";
 }
